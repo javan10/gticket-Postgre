@@ -8,7 +8,6 @@ class Estabelecimento {
 	
 	static mapping = {
 		id generator: 'identity'
-
 	}
     static constraints = {
 		
